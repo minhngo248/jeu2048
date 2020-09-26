@@ -1,0 +1,6 @@
+- Pour compilation, veuillez mettre les sources fichiers et les header fichiers dans un même projet dans le IDE (par exemple: Dev C++, CodeBlock).
+Coordonnée des fichiers: /Jeu 2048/files
+- Si vous utilisez l'IDE NetBeans, ouvrez directement le projet Jeu 2048 sur l'IDE.
+- Utilisez les flèches directionnelles pour effectuer les mouvements.
+
+Toutes les taches s'effectuent sur le clavier.
